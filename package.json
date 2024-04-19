@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/uwidcit/info1601demo#readme",
   "dependencies": {
+    "firebase": "^10.11.0",
     "firebase-tools": "^13.6.0"
   }
 }
